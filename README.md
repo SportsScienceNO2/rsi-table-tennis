@@ -36,7 +36,7 @@ The following results were generated directly from the analytical pipeline:
 - **Stats:** Conventional (F=1.36, p=0.269); Para-athlete (F=1.71, p=0.206). Despite the lack of omnibus significance, 30cm was selected for regression models as the optimal mechanical load.
 
 ### **Predictive Modeling (Regression)**
-- **Conventional Group:** 10m Sprint significantly predicts **36%** of Peak Ball Velocity (R^2=0.36, p=0.007).
+- **Conventional Group:** 10m Sprint significantly predicts **36%** of Peak Ball Velocity ($R^2=0.36, p=0.007$).
 - **Para-athlete Group:** RSI at 30cm explains **26%** of Technical Efficiency ($R^2=0.26, p=0.106$), showing a moderate trend despite the small sample size (n=11).
 
 ### **Inter-group Differences**
