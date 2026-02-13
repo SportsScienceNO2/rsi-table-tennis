@@ -43,7 +43,9 @@ The following results were generated directly from the analytical pipeline:
 - **Insight:** Conventional athletes show significantly higher RSI at 30cm ($p=0.0068$) with a **Large** effect size (**$g=1.08$**).
 
 ---
-
+## 📞 Contact
+Corresponding Author listed on the manuscript.
+---
 ## ⚙️ Requirements
 
 Install the necessary Python stack using:
@@ -51,5 +53,3 @@ Install the necessary Python stack using:
 ```bash
 pip install pandas numpy scipy statsmodels matplotlib seaborn
 
-##📞 Contact
-Corresponding Author listed on the manuscript.
